@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "9448359a77892754",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9dd25e95834e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e28694a1c8d2d44",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programación/C (C23).canvas",
+                "viewState": {
+                  "x": -1089.5694663116453,
+                  "y": -1398.2232502080667,
+                  "zoom": 0.276245279560336
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C (C23)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb11aa2f9d8df8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f85fffc1f9d2de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40aff2185c62baf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7660a17ff17a7a9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "bdd8bb9eb868cdd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "adc332c404d5ddab",
+    "type": "split",
+    "children": [
+      {
+        "id": "448fd5fcf1e86292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fe66b7da7dd337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programación/C/C Reserved Keywords.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de C Reserved Keywords"
+            }
+          },
+          {
+            "id": "d22984009401a851",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "5ef29d7b8bc33b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "efb69d3ece91db5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programación/C/C Reserved Keywords.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de C Reserved Keywords"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0e28694a1c8d2d44",
+  "lastOpenFiles": [
+    "Programación/C++.canvas",
+    "Programación/C Sharp.canvas",
+    "Programación/Java.canvas",
+    "Programación/TypeScript.canvas",
+    "Programación/JavaScript.canvas",
+    "Programación/C (C23).canvas",
+    "Programación/PHP.canvas",
+    "Programación/Odoo.canvas",
+    "Matematicas/Pre-Calculo.canvas",
+    "Programación/C/C Preprocessor Declarations.canvas",
+    "Programación/C/C Standard Library.canvas",
+    "Programación/C/C Reserved Keywords.md",
+    "Programación/Algoritmia",
+    "Sin título.md",
+    "Programación/C",
+    "Sin nombre",
+    "Programación",
+    "Matematicas",
+    "Bienvenido.md"
+  ]
+}

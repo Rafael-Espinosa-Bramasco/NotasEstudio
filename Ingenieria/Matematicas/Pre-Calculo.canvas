@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"ce4de14e170281bc","x":-740,"y":-540,"width":360,"height":1000,"type":"text","text":"cm => Centimetro\ndB => Decibel\nF => Farad\nft => Feet (pie)\ng => Gramo\ngal => Galon\nh => Hora\nH => Herz\nin => Inches (pulgadas)\nJ => Joule\nkcal => Kilocaloria\nkg => Kilogramo\nkm => Kilometro\nkPa => Kilopascal\nL => Litro\nlb => Libra\nlm => Lumen\nM => mol y soluto por litro de solucion\nm => metro\nmg => Miligramo\nMHz => Megahertz\nmi => Milla\nmin => Minuto\nmL => Mililitro\nmm => Milimetro\nN => Newton\nqt => cuarto\noz => Onza\ns => Segundo\n(signo omega) => ohmn\nV => Volt\nW => Watt\nyd => Yarda\nyr => Year (año)\nºC => Grado Celsius\nºF => Grado Fahrenheit\nK => Kelvin\n=> Implica\n<=> Equivalencia"}
+	],
+	"edges":[]
+}
